@@ -1,1 +1,4 @@
 ka2
+
+git remote add origin https://github.com/ThaNicola/test.git
+git push -u origin master
